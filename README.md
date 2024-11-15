@@ -1,5 +1,3 @@
----
-
 # 👋 Welcome to My GitHub Profile!
 
 ## About Me  
@@ -40,7 +38,7 @@ To create innovative projects that combine **creativity**, **technology**, and *
 ---
 
 ## 📫 Let's Connect  
-- **Email**: [midhun200405@gmail.com]  
+- **Email**: [midhun200405@gmail.com](mailto:midhun200405@gmail.com)  
 - **LinkedIn**: [Midhun Krishna](https://www.linkedin.com/in/midhun-krishna-35ba86336)  
 - **Instagram**: [@.m1_dh_un.](https://www.instagram.com/.m1_dh_un.)  
 
