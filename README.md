@@ -40,7 +40,7 @@ To create innovative projects that combine **creativity**, **technology**, and *
 ## 📫 Let's Connect  
 - **Email**: [midhun200405@gmail.com](mailto:midhun200405@gmail.com)  
 - **LinkedIn**: [Midhun Krishna](https://www.linkedin.com/in/midhun-krishna-35ba86336)  
-- **Instagram**: [@midhun.krishna,m_](https://www.instagram.com/midhun.krishna,m_)  
+- **Instagram**: [@midhun.krishna.m_](https://www.instagram.com/midhun.krishna.m_)  
 
 Feel free to explore my repositories and share your thoughts. Collaboration is always welcome!  
 
