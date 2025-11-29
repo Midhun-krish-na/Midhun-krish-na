@@ -5,7 +5,6 @@ Hi there! I'm a passionate **developer in progress** with a keen interest in cre
 
 🌱 **Currently Exploring**:  
 - Game development  
-- Open-source contributions  
 - Building an AI companion  
 
 💡 **Vision**:  
